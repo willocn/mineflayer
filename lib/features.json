@@ -313,5 +313,10 @@
     "name": "actionIdUsed",
     "description": "pre 1.17, actionId is used",
     "versions": ["1.8", "1.16.5"]
+  },
+  {
+    "name": "setSlotAsTransaction",
+    "description": "use setslot as transaction instead of just hoping it'll work",
+    "versions": ["1.17", "1.17.1"]
   }
 ]
